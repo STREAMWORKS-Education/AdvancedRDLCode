@@ -8,7 +8,11 @@
 
 
 
-#include <PS2X_lib.h> //link to connection guide http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/
+#include <PS2X_lib.h> 
+//you will need to upload the zip library for the code. That file can be found here https://github.com/STREAMWORKS-Education/AdvancedRDLCode/blob/main/PS2X_lib.zip
+//once the file is download DO NOT unzip the file. Then open up the Arduino software, go to libraries, and add .zip library.
+
+//link to connection guide http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/
 
 #include <Servo.h>
 
